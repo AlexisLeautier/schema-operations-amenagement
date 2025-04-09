@@ -1,5 +1,8 @@
 # Opération d'aménagement
 
+> [!TIP]
+> Ce schéma appartient au standard CNIG Opérations d'aménagement. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) sur le site du CNIG.
+
 ## Définition
 
 Selon l’[article L300-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978042) du Code de l’urbanisme, les opérations d’aménagement ont pour finalité de mettre en œuvre un projet urbain, une politique locale de l’habitat, d’organiser la mutation, le maintien, l’extension ou l’accueil des activités économiques, de favoriser le développement des loisirs et du tourisme, de réaliser des équipements collectifs ou des locaux de recherche ou d’enseignement supérieur, de lutter contre l’insalubrité et l’habitat indigne ou dangereux, de permettre le renouvellement urbain, de sauvegarder ou de mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels, notamment en recherchant l’optimisation de l’utilisation des espaces urbanisés et à urbaniser.
