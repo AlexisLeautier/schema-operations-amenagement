@@ -1,5 +1,8 @@
 # Programme
 
+> [!TIP]
+> Ce schéma appartient au standard CNIG Opérations d'aménagement. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) sur le site du CNIG.
+
 ## Définition
 Un programme est une opération immobilière réalisée dans (un secteur) une opération d’aménagement
 Les programmes sont individuels et ne sont pas regroupés entre eux.
