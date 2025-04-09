@@ -1,5 +1,8 @@
 # Secteur
 
+> [!TIP]
+> Ce schéma appartient au standard CNIG Opérations d'aménagement. Vous pouvez consulter la [documentation du standard](https://cnig.gouv.fr/ressources-am%C3%A9nagement-a26047.html#H_ZAE-Sites-economiques) sur le site du CNIG.
+
 ## Définition
 Un secteur d’aménagement est situé dans une opération d’aménagement et en constitue une portion géographique. La réalisation des secteurs d’aménagement peut être échelonnée dans le temps.
 L’ensemble des secteurs constitue une partition complète de l’opération d’aménagement
